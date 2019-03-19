@@ -1,0 +1,103 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?hbguly');
+  src:  url('fonts/icomoon.eot?hbguly#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?hbguly') format('truetype'),
+    url('fonts/icomoon.woff?hbguly') format('woff'),
+    url('fonts/icomoon.svg?hbguly#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-cart-tab-active:before {
+  content: "\e913";
+  color: #ff5a9a;
+}
+.icon-home-active:before {
+  content: "\e914";
+  color: #ff5a9a;
+}
+.icon-add:before {
+  content: "\e900";
+}
+.icon-cart:before {
+  content: "\e901";
+}
+.icon-cart-tab:before {
+  content: "\e902";
+}
+.icon-classify:before {
+  content: "\e903";
+}
+.icon-classify-active:before {
+  content: "\e915";
+  color: #ff5a9a;
+}
+.icon-delete:before {
+  content: "\e904";
+}
+.icon-favor:before {
+  content: "\e905";
+}
+.icon-favor-active:before {
+  content: "\e916";
+  color: #ff5a9a;
+}
+.icon-fold:before {
+  content: "\e906";
+}
+.icon-home:before {
+  content: "\e907";
+}
+.icon-home1:before {
+  content: "\e917";
+}
+.icon-left:before {
+  content: "\e908";
+}
+.icon-loading:before {
+  content: "\e909";
+}
+.icon-menu:before {
+  content: "\e90a";
+}
+.icon-my:before {
+  content: "\e90b";
+}
+.icon-my-active:before {
+  content: "\e90c";
+  color: #ff5a9a;
+}
+.icon-password:before {
+  content: "\e90d";
+}
+.icon-refresh:before {
+  content: "\e90e";
+}
+.icon-right:before {
+  content: "\e90f";
+}
+.icon-search:before {
+  content: "\e910";
+}
+.icon-subtract:before {
+  content: "\e911";
+}
+.icon-text:before {
+  content: "\e912";
+}
